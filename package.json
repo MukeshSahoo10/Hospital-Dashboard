@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://mukeshsahoo10.github.io/Hospital-Dashboard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
